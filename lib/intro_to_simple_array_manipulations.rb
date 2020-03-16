@@ -42,6 +42,6 @@ def using_delete(array, string)
   array.delete(string)
 end
 
-def using_delete_at(array,Robocop)
+def using_delete_at(array,robocop)
   array.delete(Robocop)
 end
