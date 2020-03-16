@@ -29,5 +29,3 @@ end
 def using_insert(array,new_element)
   array_one.insert[4](new_element)
 end
-
-
